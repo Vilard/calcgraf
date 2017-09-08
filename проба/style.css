@@ -1,0 +1,12 @@
+#red_sk{
+    width:700px;
+    height:100px;
+    background:red;
+}
+.yellow_square{
+    float:left;
+    width:80px;
+    height:80px;
+    background:yellow;
+    margin:5px;
+}
